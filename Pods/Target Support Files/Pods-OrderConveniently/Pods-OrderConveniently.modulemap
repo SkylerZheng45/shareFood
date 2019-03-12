@@ -1,0 +1,6 @@
+framework module Pods_OrderConveniently {
+  umbrella header "Pods-OrderConveniently-umbrella.h"
+
+  export *
+  module * { export * }
+}
